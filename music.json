@@ -1,7 +1,6 @@
 [
     {
-      "id": 1,
       "title": "meditation",
-      "url": "https://github.com/minthantnaing1/mindmate-api/blob/main/meditation.mp3"
+      "music_url": "https://github.com/minthantnaing1/mindmate-api/blob/main/meditation.mp3"
     }
   ]
