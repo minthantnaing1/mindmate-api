@@ -2,5 +2,9 @@
   {
     "title": "Song One",
     "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "title": "Song Two",
+    "music_url": "https://freesound.org/people/ZHR%C3%98/sounds/529610/"
   }
 ]
